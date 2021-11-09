@@ -7,6 +7,7 @@ namespace Open_Lab_01._01
         public bool IsLessThan10(string input)
         {
             throw new NotImplementedException();
+          // keby to fungovalo lebo som už s toho stratení 
         }
     }
 }
